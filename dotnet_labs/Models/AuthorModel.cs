@@ -9,6 +9,6 @@ namespace dotnet_labs.Models
     {
         public int AID { get; set; }
         public string AName { get; set; }
-
+        public List<BookModel> Books { get; set; }
     }
 }

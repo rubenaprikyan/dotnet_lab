@@ -10,5 +10,6 @@ namespace dotnet_labs.Models
         public int Gid { get; set; }
         public string Gname { get; set; }
         public string AboutG { get; set; }
+        public List<BookModel> Books { get; set; }
     }
 }

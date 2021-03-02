@@ -10,6 +10,9 @@ namespace dotnet_labs.Models
         public int Bid { get; set; }
         public string Bname { get; set; }
         public int AuthorId { get; set; }
+        public AuthorModel Author { get; set; }
+
         public int GenreID { get; set; }
+        public GenreModel Genre { get; set; }
     }
 }
