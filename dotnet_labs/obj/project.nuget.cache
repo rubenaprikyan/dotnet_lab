@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfYCp5fRWyODfGJQSdwkokr9rfdp0jXyeOg6JxzQHO1RlpKMWg/SgQYlsNdxVD2P8sMHLA7TYqCZ/WCG5SnAGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruben\\source\\repos\\dotnet_labs\\dotnet_labs\\dotnet_labs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
